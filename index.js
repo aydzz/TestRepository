@@ -3,3 +3,4 @@ function sample(param){
 }
 
 console.log(sample("Hello World!"))
+console.log(sample("How have you been?"))
